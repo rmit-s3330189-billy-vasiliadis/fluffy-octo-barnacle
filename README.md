@@ -1,2 +1,2 @@
-Name: Billy The Kid
+Name: Billy The Kid :)
 Project: Practice Makes Perfect :)
